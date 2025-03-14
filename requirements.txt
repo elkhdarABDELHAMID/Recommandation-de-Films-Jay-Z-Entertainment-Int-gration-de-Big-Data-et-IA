@@ -1,0 +1,7 @@
+pyspark==3.5.0
+uvicorn==0.23.2  # Si tu utilises FastAPI
+numpy
+pandas
+pyspark==3.5.0
+elasticsearch>=7.0.0,<8.0.0
+Flask==2.3.3
