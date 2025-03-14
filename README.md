@@ -38,5 +38,5 @@ Les données sont issues d'un fichier (`u.item`), qui contient des informations 
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/tonusername/movie-recommendation-system.git
-   cd movie-recommendation-system
+   git clone https://github.com/elkhdarABDELHAMID/Recommandation-de-Films-Jay-Z-Entertainment-Int-gration-de-Big-Data-et-IA.git
+   cd Recommandation-de-Films-Jay-Z-Entertainment-Int-gration-de-Big-Data-et-IA
